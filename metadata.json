@@ -1,0 +1,16 @@
+{
+  "sampling_rate_hz": 173.61,
+  "source_url": "https://neurophysicsbonn.de/downloads",
+  "labels_verified": true,
+  "class_definitions": {
+    "Z": "A: healthy, eyes open (scalp EEG)",
+    "O": "B: healthy, eyes closed (scalp EEG)",
+    "N": "C: seizure-free, contralateral hippocampal formation (intracranial)",
+    "F": "D: seizure-free, epileptogenic zone (intracranial)",
+    "S": "E: seizure activity (intracranial)"
+  },
+  "source_grouping_verified": false,
+  "source_id_meaning": "released segment filename only; parent recording and patient unknown",
+  "analysis_scope": "segment-level descriptive EDA, not patient-independent evaluation",
+  "allow_recording_level_split": false
+}

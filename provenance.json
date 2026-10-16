@@ -1,0 +1,37 @@
+[
+  {
+    "archive": "z.zip",
+    "sha256": "dd7dd53b84fdbdfde16915c608b8333e926112944861aab933f1b76cedb8ad05",
+    "signal_files": 100,
+    "source": "https://neurophysicsbonn.de/downloads",
+    "provided_by": "user"
+  },
+  {
+    "archive": "o.zip",
+    "sha256": "82b806f39aa04bf010640154dc1bbd548fc8defc2f267653070aaf09129e72da",
+    "signal_files": 100,
+    "source": "https://neurophysicsbonn.de/downloads",
+    "provided_by": "user"
+  },
+  {
+    "archive": "n.zip",
+    "sha256": "98ab85976b5cc8e0b77cc4d4f76a98c6457ea58184751f6f4141a8c30ff5a2c1",
+    "signal_files": 100,
+    "source": "https://neurophysicsbonn.de/downloads",
+    "provided_by": "user"
+  },
+  {
+    "archive": "f.zip",
+    "sha256": "f6cc5a5ce9bcb1f16a00cbfde7bb501cd7fe3874b549118182501aa3d509d578",
+    "signal_files": 100,
+    "source": "https://neurophysicsbonn.de/downloads",
+    "provided_by": "user"
+  },
+  {
+    "archive": "s.zip",
+    "sha256": "befda5a0f352e3bd222b2a8dafa715eb4dc6337ac2bf7a050de62a467615fc3a",
+    "signal_files": 100,
+    "source": "https://neurophysicsbonn.de/downloads",
+    "provided_by": "user"
+  }
+]
