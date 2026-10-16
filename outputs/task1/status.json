@@ -1,0 +1,8 @@
+{
+  "status": "RAW_AUDITED",
+  "manifest_files": 500,
+  "parse_failures": 0,
+  "nonfinite_values": 0,
+  "constant_recordings": 0,
+  "duplicate_recordings": 0
+}

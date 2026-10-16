@@ -1,0 +1,6 @@
+class,meaning,segments,values_per_segment,sampling_rate_hz,nominal_duration_s
+Z,"A: healthy, eyes open (scalp EEG)",100,4097,173.61,23.598871032774607
+O,"B: healthy, eyes closed (scalp EEG)",100,4097,173.61,23.598871032774607
+N,"C: seizure-free, contralateral hippocampal formation (intracranial)",100,4097,173.61,23.598871032774607
+F,"D: seizure-free, epileptogenic zone (intracranial)",100,4097,173.61,23.598871032774607
+S,E: seizure activity (intracranial),100,4097,173.61,23.598871032774607

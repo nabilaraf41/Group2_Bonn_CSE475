@@ -1,0 +1,29 @@
+{
+  "features": [
+    "mean",
+    "median",
+    "std",
+    "min",
+    "max",
+    "q25",
+    "q75",
+    "skewness",
+    "excess_kurtosis",
+    "rms",
+    "peak_to_peak",
+    "mean_line_length",
+    "zero_crossing_rate",
+    "spectral_entropy",
+    "relative_delta",
+    "relative_theta",
+    "relative_alpha",
+    "relative_beta",
+    "relative_gamma"
+  ],
+  "explained_variance_ratio": [
+    0.4071404702928115,
+    0.1847632929378154,
+    0.11804605633596059
+  ],
+  "scope": "development only"
+}

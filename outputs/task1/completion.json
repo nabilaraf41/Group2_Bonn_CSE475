@@ -1,0 +1,11 @@
+{
+  "raw_segments_audited": 500,
+  "development_segments_explored": 300,
+  "reserved_segments": 200,
+  "features": 19,
+  "eda_A_to_H_executed": true,
+  "five_paper_table": true,
+  "research_question": true,
+  "model_trained": false,
+  "patient_independence_verified": false
+}

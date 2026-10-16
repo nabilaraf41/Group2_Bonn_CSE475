@@ -1,0 +1,13 @@
+Development files analyzed: 300; class counts: {'F': 60, 'N': 60, 'O': 60, 'S': 60, 'Z': 60}.
+
+Class balance: use macro-F1 and class recall; observed counts describe this training partition only.
+
+Near-constant features: []. Review before selecting features; fit any selector on development only.
+
+Feature outlier flags: 557. Inspect original traces; do not remove seizure-related extremes automatically.
+
+First two PCs explain 59.2% of standardized training variance. Visual separation is not evidence of held-out predictive performance.
+
+Review histograms/boxplots/violins for overlap before stating which classes separate; inspect interactive point IDs to trace unusual records.
+
+Frequency bands above Nyquist are marked missing, not invented. Unavailable features are excluded from PCA and listed in its metadata.
